@@ -1,0 +1,8 @@
+# Claude Code memory files
+.claude/
+
+# macOS
+.DS_Store
+
+# Arquivos locais não relacionados ao projeto
+inspirate.html
